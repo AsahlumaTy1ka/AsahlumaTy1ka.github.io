@@ -10,8 +10,7 @@
 ---
 
 ## Objective
-Aspiring entrepreneur with a strong passion for technology and programming. Aiming to build a successful tech company while honing web development and programming skills. Interested in contributing to educational projects and innovative solutions.
-
+Become goated...
 ---
 
 ## Skills
@@ -21,7 +20,7 @@ Aspiring entrepreneur with a strong passion for technology and programming. Aimi
 - **Content Creation**: Blogging, AI-powered content automation
 - **App Development**: Weather app, Learn IT Grade 12 app
 - **Tools**: Termux, Blogger, Google AdSense, WordPress
-- **Other**: Dropshipping, Website design, Social media content automation, Basic AI implementation
+- **Other**: Website design, Social media content automation, Basic AI implementation
 
 ---
 
