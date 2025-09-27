@@ -1,5 +1,5 @@
 # Tyika Asahluma 
-*Aspiring Entrepreneur | Programmer | Blogger | Web Developer*  
+Web Developer*  
 
 ---
 
@@ -19,16 +19,15 @@ Become goated...
 - **Web Development**: Bootstrap, CSS, HTML, JavaScript
 - **Content Creation**: Blogging, AI-powered content automation
 - **App Development**: Weather app, Learn IT Grade 12 app
-- **Tools**: Termux, Blogger, Google AdSense, WordPress
 - **Other**: Website design, Social media content automation, Basic AI implementation
 
 ---
 
 ## Experience
 
-### **TeekaY-X** — *Founder & Content Creator*  
+### **TeekaY-X** — *Founder*  
 *August 2024 – Present*  
-- Created and managed a technology-focused blog, including educational topics like phishing, Termux, and Android hacks.  
+- Created and managed a technology-focused blog, including educational topics like web development 
 - Automated content creation for blog and social media platforms using AI.  
 - Built a weather app with a backend using JavaScript and a frontend using Bootstrap, CSS, and HTML.  
 
@@ -62,7 +61,6 @@ Become goated...
 ---
 
 ## Certifications
-- **Google AdSense**: RPM Management and Optimization  
 - **Blogger Content Automation with AI**: Successfully integrated AI to automate content creation for blogs and social media platforms.  
 
 ---
@@ -74,6 +72,3 @@ Become goated...
 - Coding and programming (especially web-based projects)
 
 ---
-
-## References
-Available upon request.
