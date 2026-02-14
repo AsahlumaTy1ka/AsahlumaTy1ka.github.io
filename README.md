@@ -1,5 +1,5 @@
 # Tyika Asahluma 
-Web Developer*  
+Developer*  
 
 ---
 
@@ -9,16 +9,11 @@ Web Developer*
 
 ---
 
-## Objective
-Become goated...
----
-
 ## Skills
 
 - **Programming Languages**: JavaScript, HTML, CSS, Delphi, Python (beginner)
 - **Web Development**: Bootstrap, CSS, HTML, JavaScript
-- **Content Creation**: Blogging, AI-powered content automation
-- **App Development**: Weather app, Learn IT Grade 12 app
+- **Content Creation**: AI-powered content automation
 - **Other**: Website design, Social media content automation, Basic AI implementation
 
 ---
@@ -28,8 +23,7 @@ Become goated...
 ### **TeekaY-X** — *Founder*  
 *August 2024 – Present*  
 - Created and managed a technology-focused blog, including educational topics like web development 
-- Automated content creation for blog and social media platforms using AI.  
-- Built a weather app with a backend using JavaScript and a frontend using Bootstrap, CSS, and HTML.  
+- Automated content creation for blog and social media platforms using AI.    
 
 ### **Learn IT Grade 12** — *App Developer*  
 *October 2024 – Present*  
@@ -61,7 +55,7 @@ Become goated...
 ---
 
 ## Certifications
-- **Blogger Content Automation with AI**: Successfully integrated AI to automate content creation for blogs and social media platforms.  
+- **Content Automation with AI**: Successfully integrated AI to automate content creation for blogs and social media platforms.  
 
 ---
 
