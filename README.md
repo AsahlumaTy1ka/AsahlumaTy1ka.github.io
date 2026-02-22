@@ -12,7 +12,7 @@ Developer*
 ## Skills
 
 - **Programming Languages**: HTML, CSS, Delphi, Python and JavaScript (beginner)
-- **Web Development**: Bootstrap, CSS, HTML, JavaScript
+- **Web Development**: Bootstrap, CSS, HTML, JavaScript, Python
 - **Automation**: AI-powered content automation
 ---
 
