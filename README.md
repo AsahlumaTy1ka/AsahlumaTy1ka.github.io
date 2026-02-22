@@ -11,24 +11,23 @@ Developer*
 
 ## Skills
 
-- **Programming Languages**: JavaScript, HTML, CSS, Delphi, Python (beginner)
+- **Programming Languages**: HTML, CSS, Delphi, Python and JavaScript (beginner)
 - **Web Development**: Bootstrap, CSS, HTML, JavaScript
-- **Content Creation**: AI-powered content automation
-- **Other**: Website design, Social media content automation, Basic AI implementation
-
+- **Automation**: AI-powered content automation
 ---
 
 ## Experience
 
 ### **TeekaY-X** — *Founder*  
 *August 2024 – Present*  
-- Created and managed a technology-focused blog, including educational topics like web development 
+- Created and managed a technology-focused webapp with Django 
 - Automated content creation for blog and social media platforms using AI.    
 
 ### **Learn IT Grade 12** — *App Developer*  
 *October 2024 – Present*  
 - Developed an educational app focused on Delphi programming basics and Information Technology exam prep for South African Grade 12 students.  
-- Implemented past exam question papers and marking guidelines to help students prepare.  
+- Implemented past exam question papers and marking guidelines to help students prepare.
+
 
 ---
 
@@ -41,21 +40,21 @@ Developer*
 ---
 
 ## Projects
-
+### **GAuto** — *App Developer*
+*January 2025 - Present*
+- Developed a blog posts automation script to post Gemini AI generated content on Jekyll blog.
+    
 ### **ReelFetch** — *Web Developer*  
 *September 2024 – Present*  
 - Developed a Facebook reel downloader website, focusing on creating a user-friendly and fast platform.  
-- Worked on customizing website design elements, such as the navbar, to improve visual appeal.
 
+### **TeeBot** — *App Developer* 
+*June 2025 - Present*
+- Developed a simple script to share Facebook post to multiple Facebook Groups
+  
 ### **Weather App** — *Full-stack Developer*  
 *October 2024 – Present*  
-- Designed and developed a weather application using JavaScript for backend logic and HTML/CSS for frontend design.  
-- Focused on providing real-time weather updates with an easy-to-use interface.
-
----
-
-## Certifications
-- **Content Automation with AI**: Successfully integrated AI to automate content creation for blogs and social media platforms.  
+- Designed and developed a simple and straight-forward weather application using JavaScript for backend logic and HTML/CSS for frontend design.  
 
 ---
 
